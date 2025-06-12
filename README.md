@@ -13,7 +13,6 @@
 - 📘 Strengthening Data Structures & Algorithms (DSA) in C++.
 - 🎯 Preparing for GATE CSE with focus on core subjects like COA, OS, DBMS, etc.
 - 💡 Interested in solving real-world problems through AI and automation.
-- ✨ Exploring Open Source and working on building a **Waste Detection System** and **IoT-based Smart Agriculture Solutions**.
 
 ---
 
